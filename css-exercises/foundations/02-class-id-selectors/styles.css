@@ -1,0 +1,23 @@
+.odd-numbered-elements-bg{
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: sans-serif;
+
+}
+
+#id-selector-second-element{
+    color: blue;
+    font-size: 36px;
+}
+
+.class-selector-third-element{
+    font-size: 24px;
+
+}
+
+#id-selector-fourth-element{
+    background-color: lightgreen;
+    font: 24px;
+    font-weight: bold;
+
+}
